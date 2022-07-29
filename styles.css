@@ -1,0 +1,66 @@
+h1 {
+  color: blue;
+}
+
+input {
+  margin: 20px 0 10px 10px;
+}
+.row {
+  color: cadetblue;
+  margin: 20px 0 0 0;
+  font-size: 30px;
+}
+h3 {
+  margin: 30px 0 40px 20px;
+  color: darkslategrey;
+  font-size: 30px;
+}
+h4 {
+  margin: 40px 20px 40px 20px;
+  color: darkslategrey;
+  padding: 20px 0 0 0;
+}
+h5 {
+  margin: 40px 20px 40px 20px;
+  color: darkslategrey;
+  font-size: 25px;
+  padding: 20px 0 0 0;
+}
+
+ul {
+  list-style: none;
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  margin: 50px 0 0 0;
+}
+
+li {
+  border: solid 1px cadetblue;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  color: darkslategrey;
+}
+
+input {
+  border: solid 1px cadetblue;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.submit {
+  background-color: cadetblue;
+  color: white;
+  transition: all 200ms ease-in-out;
+}
+
+.submit:hover {
+  cursor: pointer;
+  color: cadetblue;
+  background-color: white;
+}
+
+.col-sm-2 {
+  font-size: 20px;
+}
