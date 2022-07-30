@@ -32,7 +32,7 @@ ul {
   position: absolute;
   top: 40px;
   right: 50px;
-  margin: 50px 0 0 0;
+  margin: 50px 400px 0 0;
 }
 
 li {
@@ -68,6 +68,6 @@ input {
 p{
     display: block;
     margin: 0 auto;
-    padding: 20px 45px;
+    padding: 20px 230px;
     
 }
