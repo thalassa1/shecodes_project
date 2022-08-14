@@ -26,6 +26,12 @@ h3 {
   color: darkslategrey;
   font-size: 30px;
 }
+h6{
+   margin: 20px;
+  color: darkslategrey;
+  font-size: 25px;
+  padding: 0 0 0 0;
+}
 img {
   margin: 10px;
   color: darkslategrey;

@@ -34,6 +34,8 @@ function showTemp(response) {
     let descriptionElement = document.querySelector("#description");
     descriptionElement.innerHTML = ` ${response.data.weather[0].description}`;
     
+    let speedElement = document.querySelector("#speed");
+    speedElement.innerHTML = ` Wind:${response.data.wind.speed}km/h`;
     
 }
 
