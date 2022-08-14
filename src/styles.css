@@ -1,9 +1,20 @@
+body{
+    
+  max-width: 800px;
+  margin: 30px auto;
+
+
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
+
 h1 {
   color: blue;
 }
 
 input {
-  margin: 20px 0 10px 10px;
+  margin: ;
 }
 .row {
   color: cadetblue;
@@ -15,16 +26,16 @@ h3 {
   color: darkslategrey;
   font-size: 30px;
 }
-h4 {
-  margin: 40px 20px 40px 20px;
+img {
+  margin: 10px;
   color: darkslategrey;
-  padding: 20px 0 0 0;
+  
 }
 h5 {
-  margin: 40px 20px 40px 20px;
+  margin: 20px;
   color: darkslategrey;
   font-size: 25px;
-  padding: 20px 0 0 0;
+  padding: 0 0 0 0;
 }
 
 ul {
@@ -68,6 +79,6 @@ input {
 p{
     display: block;
     margin: 0 auto;
-    padding: 20px 230px;
+  
     
 }
